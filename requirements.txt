@@ -1,0 +1,7 @@
+requests
+telebot
+bs4
+user_agent
+asyncio
+httpx
+urllib3
